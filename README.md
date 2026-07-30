@@ -1,2 +1,15 @@
-# codealpha_tasks
-Exploratory Data Analysis (EDA) of EV Charging Stations in India using Python, Pandas, Matplotlib, and Seaborn. Includes data cleaning, visualization, and business insights.
+# CodeAlpha Data Analytics Internship
+
+This repository contains my completed CodeAlpha Data Analytics internship tasks.
+
+## Completed Tasks
+
+### Task 2 – Exploratory Data Analysis (EDA)
+- EV Charging Stations Analysis
+- Python, Pandas, Matplotlib, Seaborn
+
+### Task 3 – Data Visualization
+- (Project Name)
+- Interactive charts and business insights
+
+Author: Harsh Kumar Singh
