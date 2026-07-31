@@ -9,7 +9,7 @@ This repository contains my completed CodeAlpha Data Analytics internship tasks.
 - Python, Pandas, Matplotlib, Seaborn
 
 ### Task 3 – Data Visualization
-- (Project Name)
+blinkit inventory data visualization
 - Interactive charts and business insights
 
 Author: Harsh Kumar Singh
